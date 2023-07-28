@@ -1,0 +1,6 @@
+django==3.2.10
+matplotlib
+opencv-python
+numpy
+pillow
+sklearn
